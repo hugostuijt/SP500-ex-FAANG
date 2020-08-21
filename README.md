@@ -5,4 +5,4 @@ Simple notebook calculating the S&P500 returns if the biggest tech companies are
 Data obtained from Datastream, tech companies exluded from the S&P500 Index are Facebook, Amazon, Apple, Netflix, Alphabet, Microsoft. 
 
 
-<img src="plot.png" width="350">
+<img src="plot.png" width="450">
